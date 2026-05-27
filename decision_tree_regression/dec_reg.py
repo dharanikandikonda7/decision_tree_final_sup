@@ -48,7 +48,6 @@ st.markdown(
 st.title("House Price Prediction Using Decision Tree Regressor")
 
 
-# Read dataset
 df = pd.read_csv("data.csv")
 
 # Show dataset
